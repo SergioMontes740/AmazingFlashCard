@@ -4,9 +4,7 @@
 Added a way to add a new card and save it to the main screen. Also a way to go back to the main card if you choose. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/9l4mm0j7EN.gif" width=200><br>
 
 
 ## Required
