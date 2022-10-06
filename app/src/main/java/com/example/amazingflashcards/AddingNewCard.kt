@@ -6,7 +6,6 @@ import android.view.View
 import android.widget.EditText
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.material.snackbar.Snackbar
 
 class AddingNewCard : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
