@@ -1,14 +1,13 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+Added a way to add a new card and save it to the main screen. Also a way to go back to the main card if you choose. 
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -20,6 +19,6 @@
 ## Optional
 - [ ] User can edit a card
 - [ ] An error message is shown if the user doesn't enter both a Question and an Answer
-- [x] A notification is shown if the card was created successfully
+- [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
