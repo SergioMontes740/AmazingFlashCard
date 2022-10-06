@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <EditText
+        android:id="@+id/inputQuestion"
+        android:layout_width="249dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="132dp"
+        android:layout_marginEnd="74dp"
+        android:layout_marginBottom="533dp"
+        android:gravity="center"
+        android:autofillHints=""
+        android:hint="Type Question Here"
+        android:textColorHint="@color/black" />
+
+    <EditText
+        android:id="@+id/inputAnswer"
+        android:layout_width="2490dp"
+        android:layout_height="66dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginEnd="88dp"
+        android:layout_marginBottom="533dp"
+        android:autofillHints=""
+        android:gravity="center"
+        android:hint="Type Answer Here"
+        android:textColorHint="@color/black" />
+
+    <ImageView
+        android:id="@+id/saveButton"
+        android:layout_width="100dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="21dp"
+        android:scaleType="center"
+        android:src="@drawable/icon_save_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.919"
+        app:layout_constraintStart_toStartOf="parent"
+        android:textColorHint="@color/black"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <ImageView
+        android:id="@+id/cancelButton"
+        android:layout_width="100dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="292dp"
+        android:layout_marginBottom="16dp"
+        android:scaleType="center"
+        android:src="@drawable/icon_cancel_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+
+
+</RelativeLayout>
